@@ -1,5 +1,8 @@
 # Treinando uma IA de Aprendizagem com NotebookLM
 
+Este projeto utilizou um caso real de apoio acadêmico envolvendo análise de gráficos e interpretação de dados relacionados ao programa Trilhas do Futuro.
+
+
 ## Objetivo do Projeto
 
 Este projeto teve como objetivo explorar o uso do NotebookLM como ferramenta de apoio acadêmico e organizacional durante a análise de um Trabalho de Conclusão de Curso (TCC) relacionado ao programa Trilhas do Futuro.
@@ -10,7 +13,7 @@ O NotebookLM foi utilizado para auxiliar na interpretação de conteúdos, organ
 
 # Tema Escolhido
 
-## Programa Trilhas do Futuro e análise de dados educacionais
+## Programa Trilhas do Futuro e Análise de Dados Educacionais
 
 O projeto utilizou materiais relacionados ao programa Trilhas do Futuro, iniciativa voltada para capacitação profissional e educação técnica.
 
@@ -147,6 +150,12 @@ Este projeto permitiu desenvolver habilidades em:
 - GitHub
 - Inteligência Artificial Generativa
 - Excel 
+
+---
+
+# Conclusão
+
+O projeto demonstrou como ferramentas de IA generativa podem auxiliar na organização acadêmica, interpretação de dados e otimização dos estudos, tornando o processo de aprendizagem mais dinâmico e eficiente.
 
 ---
 
