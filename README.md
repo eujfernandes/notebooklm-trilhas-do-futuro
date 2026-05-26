@@ -126,7 +126,7 @@ Este projeto permitiu desenvolver habilidades em:
 
 ## NotebookLM utilizado no projeto
 
-![NotebookLM](306570D6-0071-4953-B82E-4B2DA157EA05.png)
+![NotebookLM]({306570D6-0071-4953-B82E-4B2DA157EA05}.png)
 
 ## Exemplos de prompts
 
