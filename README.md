@@ -94,7 +94,7 @@ Este projeto permitiu desenvolver habilidades em:
 # Glossário
 
 | Conceito | Explicação |
-
+|---|---|
 | NotebookLM | Ferramenta de IA para organização de estudos |
 | Prompt | Comando enviado para IA |
 | Curadoria | Seleção de fontes relevantes |
