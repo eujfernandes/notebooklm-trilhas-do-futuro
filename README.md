@@ -130,11 +130,14 @@ Este projeto permitiu desenvolver habilidades em:
 
 ## Exemplos de prompts
 
-(INSIRA AQUI SUA IMAGEM)
+![Prompts]({01502112-80C3-402C-A5F5-F596479D7C2C}.png)
+![Prompts]({1F6F0EEC-24AA-41FF-B2B5-D6C89737F233}.png)
+![Prompts]({34DBD32B-6A5C-460C-915B-2B38DC9F6F02}.png)
+![Prompts]({DE3B2EB2-2EE1-4D18-AD85-3CEC30916AAD}.png)
 
 ## Análise de gráficos
 
-(INSIRA AQUI SUA IMAGEM)
+![Graficos]({1012386A-20E9-4D7C-A1E2-92165B9A61B5}.png)
 
 ---
 
